@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BTV4nIaaeI+NJJkN7n45HltmNo4/NcaDAOTQ21LjKkDk631sFEWK2Nn16wpv7/QwQy1PGeM+edOGZc4DbHrSUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\LaboratorioProgra1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

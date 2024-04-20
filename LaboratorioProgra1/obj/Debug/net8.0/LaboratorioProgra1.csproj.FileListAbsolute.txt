@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\bin\Debug\net8.0\LaboratorioProgra1.exe
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\bin\Debug\net8.0\LaboratorioProgra1.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\bin\Debug\net8.0\LaboratorioProgra1.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\bin\Debug\net8.0\LaboratorioProgra1.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\bin\Debug\net8.0\LaboratorioProgra1.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\LaboratorioProgra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\LaboratorioProgra1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\LaboratorioProgra1.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\LaboratorioProgra1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\LaboratorioProgra1.sourcelink.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\LaboratorioProgra1.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\refint\LaboratorioProgra1.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\LaboratorioProgra1.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\LaboratorioProgra1.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Progra\Laboratorio\LaboratorioProgra1\obj\Debug\net8.0\ref\LaboratorioProgra1.dll

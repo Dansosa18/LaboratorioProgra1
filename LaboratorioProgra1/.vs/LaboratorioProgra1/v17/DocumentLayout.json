@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\universidad\\progra\\laboratorio\\laboratorioprogra1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\universidad\\progra\\laboratorio\\laboratorioprogra1\\laboratorio\\derivadas\\juegoaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|solutionrelative:laboratorio\\derivadas\\juegoaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\universidad\\progra\\laboratorio\\laboratorioprogra1\\laboratorio\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|solutionrelative:laboratorio\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\universidad\\progra\\laboratorio\\laboratorioprogra1\\laboratorio\\derivadas\\juegoaventura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|solutionrelative:laboratorio\\derivadas\\juegoaventura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|c:\\users\\lenovo\\onedrive\\documentos\\universidad\\progra\\laboratorio\\laboratorioprogra1\\laboratorio\\derivadas\\juegodeportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F2A803-A49A-4737-9432-2643963DF742}|LaboratorioProgra1.csproj|solutionrelative:laboratorio\\derivadas\\juegodeportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuegoAccion.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Laboratorio\\Derivadas\\JuegoAccion.cs",
+              "RelativeDocumentMoniker": "Laboratorio\\Derivadas\\JuegoAccion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Laboratorio\\Derivadas\\JuegoAccion.cs",
+              "RelativeToolTip": "Laboratorio\\Derivadas\\JuegoAccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:45:01.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:36:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoJuego.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Laboratorio\\VideoJuego.cs",
+              "RelativeDocumentMoniker": "Laboratorio\\VideoJuego.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Laboratorio\\VideoJuego.cs",
+              "RelativeToolTip": "Laboratorio\\VideoJuego.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAYwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:38:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JuegoAventura.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Laboratorio\\Derivadas\\JuegoAventura.cs",
+              "RelativeDocumentMoniker": "Laboratorio\\Derivadas\\JuegoAventura.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Laboratorio\\Derivadas\\JuegoAventura.cs",
+              "RelativeToolTip": "Laboratorio\\Derivadas\\JuegoAventura.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:58:12.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JuegoDeportes.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Laboratorio\\Derivadas\\JuegoDeportes.cs",
+              "RelativeDocumentMoniker": "Laboratorio\\Derivadas\\JuegoDeportes.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Progra\\Laboratorio\\LaboratorioProgra1\\Laboratorio\\Derivadas\\JuegoDeportes.cs",
+              "RelativeToolTip": "Laboratorio\\Derivadas\\JuegoDeportes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:59:34.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
